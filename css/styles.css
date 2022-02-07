@@ -140,6 +140,11 @@ body {
     border-width: 0;
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #188CE8;
+}
+
 .hero {
     background-color: var(--bacground-color-dark-theme);
 }
